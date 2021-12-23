@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GautamNarayanYadav
-- 👀 I’m interested in Front-End Web Development.
+- 👀 I’m interested in Front-End Web Development using HTML, CSS And JavaScript.
 - 🌱 I’m currently learning RectJs, MongoDB, EpressJs, NodeJs And Many important Languages.
 - 💞️ I’m looking for Job.
 - 📫 How to reach me ...
