@@ -3,7 +3,7 @@
 - 💞️ I’m looking for Job.
 - 📫 How to reach me ...
    Email : imgautamyadav@gmai.com
-   linkedin : www.linkedin.com/in/gautam-narayan-yadav-a142681b8
+   linkedin : https://www.linkedin.com/in/gautam-yadav-a142681b8/
    Mobile : 7688905718
    Resume Portfolio  [GNY Resume.pdf](https://github.com/GautamNarayanYadav/GautamNarayanYadav/files/7770374/GNY.Resume.pdf)
    My Portfolio site : http://imgautamyadav.pythonanywhere.com/
