@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GautamNarayanYadav
-- 👀 I’m interested in Front-End & Back-End Web Development using HTML, CSS, JavaScript, Python, Django And SqLite
+- 👀 I’m interested in Front-End & Back-End Web Development using HTML, CSS, JavaScript, Python, Django And MySql
 - 💞️ I’m looking for Job.
 - 📫 How to reach me ...
    Email : imgautamyadav@gmai.com
